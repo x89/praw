@@ -131,6 +131,10 @@ this page to add in more.
     Searches for comments in /r/eve that contain zkillboard killmail links.
     Then replies to comments with web-scraped TL;DR of the information.
 
+`Shreddit <https://github.com/x89/Shreddit/>`_
+    Goes through one's comment history editing and deleting comments and/or submissions
+    for the sake of privacy.
+
 **\<Your Script Here\>**
     Edit `this page on github <https://github.com/praw-dev/praw/blob/master/
     docs/pages/useful_scripts.rst>`_ to add your script to this list.
